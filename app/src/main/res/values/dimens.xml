@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_large">34dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+
+    <dimen name="padding_medium">20dp</dimen>
+
+
+    <dimen name="text_title">34sp</dimen>
+    <dimen name="text_large">24sp</dimen>
+    <dimen name="text_normal">14sp</dimen>
+
+
+    <dimen name="popup_width">350dp</dimen>
+    <dimen name="preview_bg_border">2dp</dimen>
+    <dimen name="preview_bg_corner">10dp</dimen>
+    <dimen name="progress_height">20dp</dimen>
+    <dimen name="progress_width_01">20dp</dimen>
+    <dimen name="progress_width_02">250dp</dimen>
+    <dimen name="merchant_on_boarding_confirm_card_space">3dp</dimen>
+    <dimen name="button_width_01">300dp</dimen>
+    <dimen name="button_bottom_space">30dp</dimen>
+</resources>
